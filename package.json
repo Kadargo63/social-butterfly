@@ -1,0 +1,25 @@
+{
+  "name": "social-butterfly",
+  "version": "1.0.0",
+  "description": "social networking application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kadargo63/social-butterfly.git"
+  },
+  "author": "kadargo63",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kadargo63/social-butterfly/issues"
+  },
+  "homepage": "https://github.com/Kadargo63/social-butterfly#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4",
+    "node": "^17.3.0"
+  }
+}

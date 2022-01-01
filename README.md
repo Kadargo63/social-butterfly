@@ -1,7 +1,7 @@
 
   # Project Title
   Social Butterfly
-  [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+  ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
 
   # Description
   API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. You’ll use Express.js for routing, a MongoDB database, and the Mongoose ODM.
@@ -21,8 +21,8 @@
   fif
   
   # License 
-  GNU AGPLv3
-  * As this license list was not comprehensive, if you need another license, use the contact  information below to ask for license to be added. 
+  For more information about licenses, please visit:
+[License](https://opensource.org/licenses/MIT)
   
   # Contributing 
   na
